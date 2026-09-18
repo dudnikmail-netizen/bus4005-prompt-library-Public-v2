@@ -1,4 +1,4 @@
-CargoLinq Freight Prompt Library (Portfolio)
+# README — CargoLinq Freight Prompt Library (Portfolio)
 
 This is the version history for my BUS4005-T5-W Assessment 1 prompt library. It shows how each prompt was tested and improved, using a real LLM — not simulated.
 
