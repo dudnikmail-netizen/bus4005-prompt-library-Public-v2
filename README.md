@@ -85,22 +85,4 @@ National Institute of Standards and Technology. (2024). *Artificial intelligence
 
 ---
 
-## Screenshots checklist
 
-Tick these off as you save each one into `/screenshots`:
-
-- [ ] Prompt 1 — v1 result
-- [ ] Prompt 1/2 — v2 result (lane, price, capacity flag)
-- [ ] Prompt 3 — v1 result
-- [ ] Prompt 3 — v2 result
-- [ ] Prompt 4/5 — v1 result
-- [ ] Prompt 4/5 — v2 result (JSON)
-- [ ] Prompt 6 — v1 result
-- [ ] Prompt 6 — v2 result (JSON)
-- [ ] Prompt 7 — v2 result (JSON)
-- [ ] Prompt 8 — v1 result
-- [ ] Prompt 8 — v2 result
-- [ ] Prompt 9 — v2 result
-- [ ] Prompt 10 — v2 result
-
-Link this repo (or OneDrive folder) in your Assessment 1 submission, as the brief requires.
